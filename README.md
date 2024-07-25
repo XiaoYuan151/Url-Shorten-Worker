@@ -25,9 +25,9 @@ Where Variable name should set as `LINKS` and KV namespace is the namespace you 
 
 ![img](readme/20201205232704.png)
 
-### 复制本项目中的`index.js`的代码到Cloudflare Worker 
+### 复制本项目中的`_worker.js`的代码到Cloudflare Worker
 
-Copy the `index.js` code from this project to Cloudflare Worker. 
+Copy the `_worker.js` code from this project to Cloudflare Worker.
 
 ### 调整超时设置
 
@@ -71,7 +71,7 @@ Copy the `index.js` code from this project to Cloudflare Worker.
 Click Save and Deploy
 
 # Demo
-https://020.name
+https://xy151.link
  
 Note: Because someone abuse this demo website, all the generated link may be deleted at any time. For long-term use, please deploy your own.
 
